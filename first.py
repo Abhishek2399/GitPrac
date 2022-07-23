@@ -1,3 +1,3 @@
 # demo function
 def demo():
-    print("Changing same line")
+    return "Changing same line"
