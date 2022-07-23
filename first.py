@@ -1,3 +1,7 @@
-# demo function
-def demo():
-    return "Changing same line"
+from mimetypes import init
+
+
+class Student():
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
